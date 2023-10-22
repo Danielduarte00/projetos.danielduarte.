@@ -1,0 +1,94 @@
+body{
+
+  background-color:  hsl(217, 54%, 11%);
+   
+}
+
+
+
+.flamengo1{
+  margin-top: 2%;
+  margin-bottom: 2% ;
+  width: 30%;
+  height: 80%;
+  background-color:hsl(216, 50%, 16%) ;
+  float: right;
+  margin-right: 35%;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px #000000;
+
+}
+
+
+
+.flamengo2{
+  width: 200%;
+  height: 80%;
+  border-radius: 10px;
+  margin-right: 5%;
+}
+#messi1{
+ width: 50%;
+height: 50%;
+
+
+ 
+
+
+}
+#messi2{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#messi3{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+ #messi4  {
+  color:  rgba(212, 9, 9, 0.989);
+
+
+
+}
+
+.flamengo3{
+  width: 100%;
+  height: 100%;
+  float: right;
+    margin-right: ; 
+   
+
+}
+@media (max-width: 578px) {
+  
+  BODY{
+   margin: 0;
+
+  }
+
+  .flamengo1{
+    width: 80%;
+    height: 90%;
+    background-color:hsl(216, 50%, 16%) ;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px #000000;
+   margin: 0;
+   
+
+  
+  }
+  .flamengo2{
+    width: 100%;
+    border-radius: 15px;
+    float: right;
+    margin-right: -25%;
+  }
+  
+
+
+
+
+
+}
